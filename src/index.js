@@ -24,7 +24,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
     {/* <ThemeProvider theme={theme}> */}
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
-        <BrowserRouter basename="/Team-Project_GooseTrack" >
+        <BrowserRouter basename="/react_node_fs_59_KaminskySergey" >
           <HelmetProvider>
             <App />
           </HelmetProvider>
